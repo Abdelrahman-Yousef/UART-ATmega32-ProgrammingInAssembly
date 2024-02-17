@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\Debug\UART_MPCM_AnotherMethod_Master.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>UART_MPCM_AnotherMethod_Master.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>UART_MPCM_AnotherMethod_Master.map</FILE>
+  <FILE>UART_MPCM_AnotherMethod_Master.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\main.asm</FILE><LINE>14</LINE></MAIN>
+  <LOOP><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\main.asm</FILE><LINE>29</LINE></LOOP>
+  <RECEIVE><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\main.asm</FILE><LINE>58</LINE></RECEIVE>
+  <HERE><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\main.asm</FILE><LINE>35</LINE></HERE>
+  <SEND_DATA><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\main.asm</FILE><LINE>50</LINE></SEND_DATA>
+  <SEND_ADDRESS><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\main.asm</FILE><LINE>41</LINE></SEND_ADDRESS>
+  <L1><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\main.asm</FILE><LINE>43</LINE></L1>
+  <L2><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Master\UART_MPCM_AnotherMethod_Master\main.asm</FILE><LINE>52</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

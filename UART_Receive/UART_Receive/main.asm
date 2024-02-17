@@ -1,0 +1,30 @@
+;
+; UART_Receive.asm
+;
+; Created: 8/31/2023 10:15:46 AM
+; Author : Options
+;
+
+
+; Replace with your application code
+.ORG 0x00
+MAIN:
+LDI R16,0xFF
+OUT DDRB,R16
+
+LDI R16,0x00
+OUT UBRRH,R16
+LDI R16,0x33
+OUT UBRRL,R16
+LDI R16,0x86
+OUT UCSRC,R16
+LDI R16,0x10
+OUT UCSRB,R16
+
+LOOP:
+SBIS UCSRA,RXC
+RJMP LOOP
+
+IN R16,UDR
+OUT PORTB,R16
+RJMP LOOP

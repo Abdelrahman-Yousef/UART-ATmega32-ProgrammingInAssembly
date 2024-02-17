@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Slave\UART_MPCM_AnotherMethod_Slave\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Slave\UART_MPCM_AnotherMethod_Slave\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Slave\UART_MPCM_AnotherMethod_Slave\Debug\UART_MPCM_AnotherMethod_Slave.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>UART_MPCM_AnotherMethod_Slave.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>UART_MPCM_AnotherMethod_Slave.map</FILE>
+  <FILE>UART_MPCM_AnotherMethod_Slave.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Slave\UART_MPCM_AnotherMethod_Slave\main.asm</FILE><LINE>13</LINE></MAIN>
+  <LOOP><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Slave\UART_MPCM_AnotherMethod_Slave\main.asm</FILE><LINE>30</LINE></LOOP>
+  <RECEIVE_ADDRESS><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Slave\UART_MPCM_AnotherMethod_Slave\main.asm</FILE><LINE>44</LINE></RECEIVE_ADDRESS>
+  <SEND_DATA><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Slave\UART_MPCM_AnotherMethod_Slave\main.asm</FILE><LINE>36</LINE></SEND_DATA>
+  <AGAIN><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Slave\UART_MPCM_AnotherMethod_Slave\main.asm</FILE><LINE>39</LINE></AGAIN>
+  <HERE><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Slave\UART_MPCM_AnotherMethod_Slave\main.asm</FILE><LINE>52</LINE></HERE>
+  <RECEIVE_DATA><FILE>c:\users\options\Documents\Atmel Studio\7.0\UART_MPCM_AnotherMethod_Slave\UART_MPCM_AnotherMethod_Slave\main.asm</FILE><LINE>60</LINE></RECEIVE_DATA>
+ </LABELS>
+</ASSEMBLER_INFO>
